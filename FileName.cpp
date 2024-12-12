@@ -16,7 +16,6 @@ int main() {
 
     Flat flat3;
     flat1.display();
-    flat3.display();
     flat3 = flat1;
     cout << "flat3 after assignment:" << endl;
     flat3.display();
